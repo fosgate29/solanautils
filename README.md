@@ -1,6 +1,6 @@
 # solanautils
 
-node 14.17.0
+node 16.16.0   (use nvm)
 
 npm install
 node transfer.js
