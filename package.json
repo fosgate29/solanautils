@@ -1,0 +1,25 @@
+{
+  "name": "solanautils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fosgate29/solanautils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fosgate29/solanautils/issues"
+  },
+  "homepage": "https://github.com/fosgate29/solanautils#readme",
+  "dependencies": {
+    "@metaplex/js": "^4.12.0",
+    "@solana/spl-token": "^0.3.5",
+    "@solana/web3.js": "^1.63.1",
+    "bs58": "^5.0.0"
+  }
+}
